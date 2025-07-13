@@ -1,1 +1,7 @@
 streamlit
+yfinance
+pandas
+numpy
+scipy
+matplotlib
+fear-greed-index
